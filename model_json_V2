@@ -1,0 +1,15 @@
+[
+	{
+		"Start Date": 2013-12-02
+		"End Date": 2013-12-03
+		"Start Time": 15:00
+		"End Time": 21:00
+		"All Machines": No
+		"All Machines Exceeding High limit": No
+		"All Machines Breaching Low Limit": Yes
+		"Specific Engine Number Selection": 2
+		"Temperature Value": 73.96
+		"Stop Stream":Yes
+		"Restart/ Clear":No
+	}
+]
